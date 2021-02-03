@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="200dip"
+        android:gravity="center"
+        android:textStyle="normal|bold|italic"
+        android:text="@string/Yirmi1" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginRight="50dip"
+        android:background="#8762CC"
+        android:text="@string/Snake"
+        android:theme="@style/mybuttonstyle"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginRight="50dip"
+        android:background="#307555"
+        android:text="@string/Rollinball"
+        android:theme="@style/mybuttonstyle"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginRight="50dip"
+        android:background="#62CC9B"
+        android:text="@string/Clickme"
+        android:theme="@style/mybuttonstyle"/>
+
+</LinearLayout>

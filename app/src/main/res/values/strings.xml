@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Minigame</string>
+    <string name="Snake">Snake</string>
+    <string name="Jeu2">Jeu3</string>
+    <string name="Minijeu1">Minijeu1</string>
+    <string name="Minijeu2">Minijeu2</string>
+    <string name="Rollinball">Rollin ball</string>
+    <string name="Clickme">Click me</string>
+    <string name="leScore">"Le score "</string>
+    <string name="Commencer">Commencer</string>
+    <string name="ReJouer">Rejouer</string>
+    <string name="Retour1">Retour</string>
+    <string name="score_actuel">scoreactuel</string>
+    <string name="lives">live</string>
+    <string name="start">Start</string>
+    <string name="replay">replay</string>
+    <string name="quit">quite</string>
+    <string name="Score">Score</string>
+    <string name="Yirmikoy">Yirmi koy</string>
+    <string name="Yirmi" />
+    <string name="Yirmi1">Yirmi</string>
+</resources>
